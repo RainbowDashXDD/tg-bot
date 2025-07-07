@@ -36,7 +36,7 @@ int main() {
     unordered_map<long long, int> statsBestScore;
 
     // Инициализируем бота (вставьте ваш токен)
-    string token = "YOUR_TELEGRAM_BOT_TOKEN";
+    string token = "8068153586:AAEDQvxbP-z2sXnOqzltU98ZSbVlOeSS0sE";
     TgBot::Bot bot(token);
 
     // Обработка команды /start
